@@ -1,4 +1,13 @@
-﻿在正文定稿后补充的注意事项
+# 30daysMakeOS-Origin-ISOfiles
+此为《30天自制操作系统》[官方网站](http://hrb.osask.jp/)光盘完整日文原版镜像文件  
+[WIKI地址](https://github.com/sky5454/30daysMakeOS-Origin-ISOfiles/wiki)  
+附上：
+[《30天自制操作系统》源码中文版](https://github.com/yourtion/30dayMakeOS)  
+https://github.com/SwordYork/slef  
+作者：[川合秀実](http://osask.net/d/kawai.html)
+
+
+# 在正文定稿后补充的注意事项
 
 *
 
